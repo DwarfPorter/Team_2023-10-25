@@ -11,8 +11,7 @@ class MainActivity : AppCompatActivity() {
         // Это комментарий
         Toast.makeText(this, "Привет!", Toast.LENGTH_SHORT).show();
 
-        // Тестовый комментарий
+        // Тестовый коммент
         Toast.makeText(this, "Добрый день!", Toast.LENGTH_SHORT).show();
-
     }
 }
